@@ -7,7 +7,7 @@ public class Static {
     static void func(int z) {
         System.out.println("x = " + x);
         System.out.println("y = " + y);
-        System.out.println("z = " + z);
+
     }
 
     static {
